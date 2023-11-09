@@ -1,0 +1,1 @@
+export const lisParticipants = ['fabio abrantes','jose carlos','francisco neymar'];
